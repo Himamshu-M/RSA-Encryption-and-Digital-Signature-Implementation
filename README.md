@@ -45,8 +45,8 @@ rsa_project/
 ### Installation
 
 ```bash
-git clone https://github.com/Himamshu-M/RSA_ATTACK.git
-cd RSA_ATTACK
+git clone https://github.com/Himamshu-M/RSA-Encryption-and-Digital-Signature-Implementation.git
+cd RSA-Encryption-and-Digital-Signature-Implementation
 ```
 
 ### Run the Demo
